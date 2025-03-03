@@ -1,7 +1,7 @@
 from tkinter import *  #importing necessaryv sources
 import random 
 
-#cannot add alternate text to images since i am unable to install pip, I sent you an inbox too but your response didn't help :( 
+
 
 #list of colors just so it is easy to use and can be used in the code
 colors = {
