@@ -1,4 +1,4 @@
-Guess the Color Game
+Color Maker Game (Guess the Color Game)
 
 Description
 
