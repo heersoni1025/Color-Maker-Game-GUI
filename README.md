@@ -16,16 +16,24 @@ Technologies Used
 - Tkinter (GUI Framework)
 - Random Library for color selection
 
-Acknowledgments
 
-Inspired by interactive learning games for kids, this project helps enhance color recognition skills in a fun way.
 
 Images:
+
+<img width="1200" alt="Screenshot 2025-05-25 at 7 48 10 PM" src="https://github.com/user-attachments/assets/54e3aa12-e6c4-4bc5-b45e-35fc07a6859c" />
+
 
 
 <img width="1026" alt="Screenshot 2025-05-25 at 6 26 16 PM" src="https://github.com/user-attachments/assets/2829e6f0-a084-4849-a2ca-50a70a970ad5" />
 
+
 <img width="1020" alt="Screenshot 2025-05-25 at 6 26 33 PM" src="https://github.com/user-attachments/assets/099b4c4b-262b-4859-832b-36c17f4784ac" />
 
+
 <img width="852" alt="Screenshot 2025-05-25 at 6 26 54 PM" src="https://github.com/user-attachments/assets/81d3af2d-8103-48c0-87d8-1274d8a34654" />
+
+
+Acknowledgments
+
+Inspired by interactive learning games for kids, this project helps enhance color recognition skills in a fun way.
 
